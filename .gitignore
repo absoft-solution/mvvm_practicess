@@ -1,0 +1,61 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+build/
+.gradle/
+.idea/
+.vscode/
+.DS_Store
+.project
+.classpath
+.metadata
+*.lock
+*.log
+*.iml
+*.hprof
+
+# Android related
+android/app/debug
+android/app/profile
+android/app/release
+*.jks
+*.keystore
+
+# iOS related
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/ServiceDefinitions.json
+ios/Runner/GeneratedPluginRegistrant.*
+ios/Runner/Runner-Bridging-Header.h
+ios/Runner.xcodeproj/
+ios/Runner.xcworkspace/
+ios/Flutter/Debug.xcconfig
+ios/Flutter/Release.xcconfig
+ios/Flutter/Generated.xcconfig
+
+# Web related
+web/.dart_tool/
+web/.packages
+
+# Windows related
+windows/Flutter/ephemeral/
+windows/Flutter/generated_plugin_registrant.cc
+
+# Linux related
+linux/flutter/ephemeral/
+linux/flutter/generated_plugin_registrant.cc
+
+# macOS related
+macos/Flutter/ephemeral/
+macos/Flutter/GeneratedPluginRegistrant.*
+
+# IntelliJ related
+.idea/
+*.iml
+
+# VS Code related
+.vscode/
